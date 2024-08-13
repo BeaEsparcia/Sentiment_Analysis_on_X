@@ -46,4 +46,4 @@ Este proyecto muestra la importancia de entender las limitaciones de los modelos
 
 ## Contacto
 
-Si tienes alguna pregunta sobre este proyecto, no dudes en contactarme en [esparcia.beatriz@gmail.com].
+Si tienes alguna pregunta sobre este proyecto, no dudes en contactarme en [esparcia.beatriz@gmail.com]. [http://www.linkedin.com/in/beatriz-esparcia-6968b076]
