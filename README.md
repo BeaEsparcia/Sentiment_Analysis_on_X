@@ -39,7 +39,7 @@ This project highlights the **importance of combining automated analysis with hu
 ### Local Execution
 
 1. **Clone the repository**
-   git clone https://github.com/BeaEsparcia/Sentiment_Analysis_on_X_Feminism.git
+   git clone [https://github.com/BeaEsparcia/Sentiment_Analysis_Feminism.git](https://github.com/BeaEsparcia/Sentiment_Analysis_on_X.git)
    cd Sentiment_Analysis_on_X_Feminism
 
 2. **Install dependencies**
