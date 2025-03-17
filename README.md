@@ -82,6 +82,14 @@ Each tweet was classified using **nlptown/bert-base-multilingual-uncased-sentime
 **Examples of Incorrect Classifications**
 - "YES. I AM A FEMINIST." → Labeled Very Negative → Possible bias.
 - A tweet criticizing feminism → Labeled Very Positive.
+
+## 📊 Sentiment Analysis Results  
+The model classified the tweets as follows:  
+- **Very Negative**: The majority of tweets were strongly negative.  
+- **Very Positive**: A significant portion also expressed strong positive sentiment.  
+- **Negative & Neutral**: Few tweets were categorized in these groups.  
+
+The results highlight a **polarized discourse on feminism**, reinforcing the importance of **bias detection in NLP models**.
  
 ## Limitations and areas for improvement
 
