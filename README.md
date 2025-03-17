@@ -52,8 +52,8 @@ This project highlights the **importance of combining automated analysis with hu
    Open Sentiment_Analysis_on_X_Feminism.ipynb and execute all cells.
 
 ### Local Execution
-If you prefer to run the project on Google Colab, click the button below:
-https://colab.research.google.com/github/BeaEsparcia/Sentiment_Analysis_on_X_Feminism/blob/main/Sentiment_Analysis_on_X_Feminism.ipynb
+If you prefer to run the project on Google Colab, click the button:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BeaEsparcia/Sentiment_Analysis_on_X/blob/main/Sentiment_Analysis_on_X_Feminism.ipynb)
 
 If necessary, install the required libraries at the beginning of the notebook:
 !pip install transformers pandas matplotlib
